@@ -8,3 +8,5 @@ This is complete Git Course
 ## main -> new-bug
 ## resolve the conflicts
 ## new-bug -> main
+## This is a change from feature branch
+## this is feature2
